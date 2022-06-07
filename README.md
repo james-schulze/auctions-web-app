@@ -3,8 +3,6 @@ Auctions Web App written in HTML, CSS, JAVASCRIPT, PHP, SQL, MySQL
 
 This project was to create a mobile optimised auction platform. It also adds user anonymity letting users create auction aliases to sell under which can be changed taking their feedback with them. This can be a free of for sale feature. It has a light banner ad system to generate revenue and auction images can be sold as well.
 
-This project was initially not intended to be free so there are no comments in the code and it is complex. A wise developer once taught me security through obscurity means job security.
-
 Demo User -u 1 -p demo
 
 I will host a demo online for anyone to checkout at http://cryptoleaks.news/auction
